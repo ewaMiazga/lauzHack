@@ -1,0 +1,2 @@
+# lauzHack
+LauzHack trail respository
