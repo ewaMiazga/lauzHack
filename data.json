@@ -1,0 +1,28 @@
+{
+  "fromCity": "Zurich",
+  "toCity": "Lausanne",
+  "viaAttractions": [
+    "Fifa_World_Football_Museum",
+    "Lake_Zurich",
+    "Swiss_Museum_of_Transport",
+    "Lindt_Chocolate_Factory_Outlet",
+    "Lake_Zug",
+    "Rapperswil_Castle",
+    "Olympic_Museum_Lausanne",
+    "Lavaux_Vineyard_Terraces",
+    "Chaplins_World",
+    "Lausanne_Cathedral"
+  ],
+  "viaCities": [
+    "Swiss_National_Museum",
+    "Lake_Zurich",
+    "Lindt_Chocolate_Factory_Outlet",
+    "Rapperswil_Castle",
+    "Olympic_Museum_Lausanne",
+    "Chillon_Castle",
+    "Lavaux_Vineyard_Terraces",
+    "Jucker_Farm",
+    "Uetliberg_Mountain",
+    "Lake_Geneva"
+  ]
+}
