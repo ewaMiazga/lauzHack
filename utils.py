@@ -117,25 +117,3 @@ def fetch_data_from_json(file_path, variable_name):
         print(f"An error occurred: {e}")
         return {}
 
-
-# Example usage:
-json_file_path = "example_data.json"
-
-create_json_file(json_file_path)
-city = "Zurich"
-add_info_to_json(json_file_path, "fromCity", city)
-
-# Example usage:
-json_file_path = "example_data.json"
-variable_name_to_fetch = "variable1"
-
-data_fetched = fetch_data_from_json(json_file_path, variable_name_to_fetch)
-
-if data_fetched:
-    print(f"Data for '{variable_name_to_fetch}': {data_fetched}")
-else:
-    print(f"No data found for '{variable_name_to_fetch}' in '{json_file_path}'.")
-
-#delete_info_from_json(json_file_path, "variable1")
-#remove_json_file(json_file_path)
-
